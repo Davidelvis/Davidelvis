@@ -4,7 +4,7 @@
 
 ### Currently, I am...
 #### Education
-- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
+- 📖 Studying at **Jomo Kenyatta** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
   - Reinforcement Learning
   - Knowledge Based Artifical Intelligence
@@ -32,12 +32,12 @@
 -->
 ### Connect with me:
 
-[<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="John's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Davidelvis website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 <br />
 
-[website]: https://gifted-ritchie-1ae5b3.netlify.app/
-[linkedin]: https://www.linkedin.com/in/john-m-39645213b/
+[website]: https://davidelvis.github.io/david/
+[linkedin]: https://www.linkedin.com/in/david-elvis-a80336183/
