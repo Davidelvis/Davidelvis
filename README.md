@@ -17,9 +17,9 @@
 - 🧠 Developing an private Algo Trader for personal use (but evenutal public use)
 - 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2](https://github.com/MckinstryJ/FastSpeech2_LJSpeech), [MelGAN](https://github.com/MckinstryJ/ParallelWaveGAN), [MB-MelGAN](https://github.com/MckinstryJ/ParallelWaveGAN), [ParallelWaveGAN](https://github.com/MckinstryJ/ParallelWaveGAN), etc). All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MckinstryJ)](https://github.com/MckinstryJ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidelvis)](https://github.com/Davidelvis/github-readme-stats)
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidelvis&show_icons=true&theme=dark)
 
 <!--
 **MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
