@@ -15,7 +15,7 @@
 #### Development
 - 🧠 Developing libraries and contributing to projects that help in converstional AI development / etc
 - 🧠 Developing a private chatbot (but evenutal public use)
-- 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2](https://github.com/MckinstryJ/FastSpeech2_LJSpeech), [MelGAN](https://github.com/MckinstryJ/ParallelWaveGAN), [MB-MelGAN](https://github.com/MckinstryJ/ParallelWaveGAN), [ParallelWaveGAN](https://github.com/MckinstryJ/ParallelWaveGAN), etc). All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
+- 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc). All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidelvis)](https://github.com/Davidelvis/github-readme-stats)
 
