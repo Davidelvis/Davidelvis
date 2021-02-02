@@ -15,14 +15,15 @@
 #### Development
 - 🧠 Developing libraries and contributing to projects that help in converstional AI development / etc
 - 🧠 Developing a private chatbot (but evenutal public use)
-- 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc). All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
+- 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
+- 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc), also speech to video synthesis models. All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidelvis)](https://github.com/Davidelvis/github-readme-stats)
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidelvis&show_icons=true&theme=dark)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidelvis&show_icons=true&theme=dark)
 
 <!--
-**MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Davidelvis/Davidelvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
