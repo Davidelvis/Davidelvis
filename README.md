@@ -19,7 +19,7 @@
 - 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
 - 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc), also speech to video synthesis models. All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
 
-[![Top Langs](https://github.com/Davidelvis/github-stats/blob/master/generated/languages.svg](https://github.com/Davidelvis/github-readme-stats)
+[![Top Langs](https://github.com/Davidelvis/github-stats/blob/master/generated/languages.svg)
 
 ![David's GitHub Stats](https://github.com/Davidelvis/github-stats/blob/master/generated/overview.svg)
 
