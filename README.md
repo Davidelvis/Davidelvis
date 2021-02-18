@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidelvis)](https://github.com/Davidelvis/github-readme-stats)
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidelvis&show_icons=true&theme=dark)
+![David's GitHub Stats](https://github.com/Davidelvis/github-stats/blob/master/generated/overview.svg)
 
 <!--
 **Davidelvis/Davidelvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
