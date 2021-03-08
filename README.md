@@ -6,7 +6,7 @@
 #### Education
 - 📖 Studying at **Jomo Kenyatta** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
-  - Deep learning mainly Reinforcement Learning
+  - Deep learning mainly Reinforcement Learning MIT Course
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
   - Data science
