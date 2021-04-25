@@ -4,17 +4,19 @@
 
 ### Currently, I am...
 #### Education
-- 📖 Studying at **Jomo Kenyatta** for my **Bachelors in Applied Mathematics**
+- 📖 Studied at **Jomo Kenyatta University** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
   - Deep learning mainly Reinforcement Learning MIT Course
+  - Reinforcement Learning in NLP
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
   - Data science
 #### Location
 - 🏔 Livng in Nairobi, Kenya
 #### Development
+- 🧠 Deep research on Reinforcement Learning in different domains to help me in building framework for optimization and fast delivery of projects in [Kunumi](https://www.kunumi.com/).
+
 - 🧠 Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
-- 🧠 Developing a private chatbot (Retrieval-Based and Generative Based Chatbot)
 - 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing
 - 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
 - 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc), also speech to video synthesis models. All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
