@@ -12,7 +12,7 @@
   - Machine Learning for Trading
   - Data science
 #### Location
-- 🏔 Livng in Nairobi, Kenya
+- 🏔 Living in Nairobi, Kenya
 #### Development
 - 🧠 Deep research on Reinforcement Learning in different domains to help me in building framework for optimization and fast delivery of projects in [Kunumi](https://www.kunumi.com/).
 
