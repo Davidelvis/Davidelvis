@@ -20,9 +20,6 @@
 - 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing
 - 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
 
-[![Top Langs](https://github.com/Davidelvis/github-stats/blob/master/generated/languages.svg)
-
-![David's GitHub Stats](https://github.com/Davidelvis/github-stats/blob/master/generated/overview.svg)
 
 <!--
 **Davidelvis/Davidelvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
