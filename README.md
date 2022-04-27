@@ -7,9 +7,9 @@
 - 📖 Studied at **Jomo Kenyatta University** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
   - Deep learning mainly Reinforcement Learning MIT Course
-  - Reinforcement Learning in NLP
+  - Software Engineering
   - Knowledge Based Artifical Intelligence
-  - Machine Learning for Trading
+  - Machine Learning(NLP)
   - Data science
 #### Location
 - 🏔 Living in Nairobi, Kenya
@@ -17,8 +17,8 @@
 - 🧠 Deep research on Reinforcement Learning in different domains to help me in building framework for optimization and fast delivery of projects in [Kunumi](https://www.kunumi.com/).
 
 - 🧠 Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
-- 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing
-- 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
+- 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing and MLOps in general
+- 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models for anomaly detection in Network Intrusion
 
 
 <!--
