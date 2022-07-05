@@ -63,10 +63,6 @@
 - 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing and MLOps in general
 - 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models for anomaly detection in Network Intrusion
 
-### Connect with me:
-
-[<img align="left" alt="Davidelvis website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Latest Blog Posts
 
