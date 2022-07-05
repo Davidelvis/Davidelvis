@@ -21,7 +21,7 @@
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B)&nbsp;
 
 #### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
