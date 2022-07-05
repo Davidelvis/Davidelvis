@@ -32,9 +32,23 @@
 [<img align="left" alt="Davidelvis website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+## Latest Blog Posts
 
-<br />
+<!-- BLOG-POST-LIST:START -->
+- [Machine Learning pipelines](https://medium.com/analytics-vidhya/machine-learning-pipelines-part1-9ec16ad5ba12)
+- [Measuring African users’ influence in twitter using Twitter Data](https://medium.com/analytics-vidhya/exploring-users-data-in-twitter-using-twitter-api-612584d0c123)
+- [Bank Term Deposit Marketing Strategy](https://medium.com/analytics-vidhya/bank-term-deposit-marketing-strategy-b9684e46c7cc)
+<!-- BLOG-POST-LIST:END -->
 
-[website]: https://davidelvis.github.io/david/
-[linkedin]: https://www.linkedin.com/in/david-elvis-a80336183/
+## Where to find me
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-elvis/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:komboelvis08@gmail.com"><img src="https://img.shields.io/badge/-komboelvis08@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+## Watch my contribution graph eaten by the snake🐍
+![Davidelvis snake gif](https://github.com/Davidelvis/Davidelvis/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Davidelvis" alt="Davidelvis" /> </p>
+
+
