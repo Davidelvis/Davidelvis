@@ -78,8 +78,6 @@
   <a href="mailto:komboelvis08@gmail.com"><img src="https://img.shields.io/badge/-komboelvis08@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## Watch my contribution graph eaten by the snake🐍
-![Davidelvis snake gif](https://github.com/Davidelvis/Davidelvis/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Davidelvis" alt="Davidelvis" /> </p>
 
