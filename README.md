@@ -2,7 +2,6 @@
 
 ## You've stumbled upon David Elvis's GitHub profile!
 
-### Currently, I am...
 #### Education
 - 📖 Studied at **Jomo Kenyatta University** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
