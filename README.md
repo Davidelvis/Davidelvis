@@ -2,6 +2,9 @@
 
 ## You've stumbled upon David Elvis's GitHub profile!
 
+I am a Data | Machine Learning Engineer with a strong mathematical background and experience in software development, creating data pipelines, feeding into deep-learning and machine-learning models, and deploying and maintaining solutions in production.
+I enjoy using ML, Computer Vision, and NLP models to create algorithms that utilize data from an ETL pipeline to provide valuable insights.
+
 #### Education
 - 📖 Studied at **Jomo Kenyatta University** for my **Bachelors in Applied Mathematics**
 - 🌱 **Completed / Current Courses**: 
